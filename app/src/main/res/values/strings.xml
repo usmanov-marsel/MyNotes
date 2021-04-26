@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="enter_new_task">Enter new task</string>
+    <string name="new_task">New task</string>
+    <string name="save">Save</string>
+    <string name="dialog_title_list">Введите название списка задач</string>
+</resources>
